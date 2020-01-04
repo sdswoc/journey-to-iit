@@ -47,6 +47,8 @@ SourceArt/**/*.tga
 
 # Binary Files
 UE4_files/Binaries/*
+UE4_files/Binaries/
+
 Plugins/*/Binaries/*
 
 # Builds
